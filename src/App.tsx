@@ -238,7 +238,7 @@ export default function App() {
         {/* Footer */}
         <footer className="text-center py-8 border-t border-white/10">
           <p className="text-gray-400 text-sm mb-2">
-            © 2024 All rights reserved
+            © 2024 PPortfolio All rights reserved.
           </p>
           <p className="text-gray-500 text-xs">
             Made by Figma{" "}
